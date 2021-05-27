@@ -1,27 +1,5 @@
 # AngularCalculatorApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Capture3](https://user-images.githubusercontent.com/80150887/119835983-32c48f80-beb6-11eb-86e6-0c7ae655436c.PNG)
+![Capture2](https://user-images.githubusercontent.com/80150887/119835994-35bf8000-beb6-11eb-9f77-923165162b17.PNG)
+![Capture1](https://user-images.githubusercontent.com/80150887/119836004-3821da00-beb6-11eb-9b29-f092981442f8.PNG)
+![Capture 4](https://user-images.githubusercontent.com/80150887/119836166-5982c600-beb6-11eb-824b-280f7c7de22e.PNG)
