@@ -1,0 +1,68 @@
+.base {
+    background: darkslategray;
+    margin-top: 5vh;
+    border: 3px solid black;
+    width: 100%;
+}
+
+.maindisplay {
+    background: lavender;
+    height: 25vh;
+    padding: 5% !important;
+    font-size: 4rem;
+    text-align: right;
+    font-family: Courier, monospace;
+    overflow: auto;
+}
+
+.subdisplay {
+    border-bottom: 1px solid rgb(0, 0, 0);
+    height: 50%;
+    font-size: 3rem;
+    overflow: auto;
+}
+
+.keypad {
+    height: calc(200% / 3);
+}
+
+.keys {
+    margin: 0;
+    height: 20%;
+    background: whitesmoke;
+    color: grey;
+    padding: 5%;
+    font-size: 2rem;
+    text-align: center;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.keys:hover {
+    opacity: 1;
+}
+
+.ackey {
+    color: orangered;
+    background: black;
+    border: 1px solid rgb(241, 241, 241);
+}
+
+.equalkey {
+    color: white;
+    background-color: orangered;
+    border: 1px solid rgb(241, 241, 241);
+}
+
+.numkey {
+    color: rgb(205, 236, 247);
+    background-color: rgb(2, 1, 1);
+    border: 1px solid rgb(241, 241, 241);
+}
+
+.opkey {
+    color: white;
+    border: 2px solid rgb(241, 241, 241);
+    background-color: black;
+    ;
+}
